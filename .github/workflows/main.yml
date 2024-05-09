@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: KhoaLearn/post-generator@main
+        uses: KhoaLearn/posdcast-generator@main
